@@ -1,2 +1,1 @@
-# Iris-Flower-Classification
-#python #jupyter #ML 
+The "Iris Flower Classification" project involves building a machine-learning model to classify iris flowers into different species based on their features. This is a classic introductory project in machine learning and often uses the well-known Iris dataset. 
